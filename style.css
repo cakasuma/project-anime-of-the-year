@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  .anime {
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 50px;
+  }
+  .anime h2 {
+    text-decoration: underline;
+    margin-bottom: 10px;
+  }
+  .anime img {
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+  }
+  .info {
+    margin-left: 80px;
+  }
+  .info p {
+    margin-bottom: 5px;
+  }
+  .characters {
+    margin-top: 20px;
+  }
+  .characters h3 {
+    text-decoration: underline;
+    margin-bottom: 10px;
+  }
+  .character-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  .character-list li {
+    margin-bottom: 5px;
+  }
+  /* Added styles for the header */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+  }
+  /* Added styles for the footer */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+  }

@@ -1,0 +1,127 @@
+[
+    {
+      "title": "Attack on Titan Final Season Part 2",
+      "rating": 9.5,
+      "viewers": 6500000,
+      "episodes": 12,
+      "season": "Winter 2023",
+      "characters": [
+        {
+          "name": "Eren Jaeger",
+          "role": "Opening Character"
+        },
+        {
+          "name": "Mikasa Ackerman",
+          "role": "Opening Character"
+        },
+        {
+          "name": "Armin Arlert",
+          "role": "Opening Character"
+        },
+        {
+          "name": "Levi Ackerman",
+          "role": "Opening Character"
+        }
+      ]
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+      "rating": 9.2,
+      "viewers": 5200000,
+      "episodes": 11,
+      "season": "Winter 2023",
+      "characters": [
+        {
+          "name": "Tanjiro Kamado",
+          "role": "Opening Character"
+        },
+        {
+          "name": "Nezuko Kamado",
+          "role": "Opening Character"
+        },
+        {
+          "name": "Zenitsu Agatsuma",
+          "role": "Opening Character"
+        },
+        {
+          "name": "Inosuke Hashibira",
+          "role": "Opening Character"
+        }
+      ]
+    },
+    {
+      "title": "My Hero Academia Season 7",
+      "rating": 8.9,
+      "viewers": 4800000,
+      "episodes": 25,
+      "season": "Spring 2023",
+      "characters": [
+        {
+          "name": "Izuku Midoriya",
+          "role": "Main Character"
+        },
+        {
+          "name": "Katsuki Bakugo",
+          "role": "Main Character"
+        },
+        {
+          "name": "Shoto Todoroki",
+          "role": "Main Character"
+        },
+        {
+          "name": "All Might",
+          "role": "Main Character"
+        }
+      ]
+    },
+    {
+      "title": "Jujutsu Kaisen 0",
+      "rating": 8.7,
+      "viewers": 4500000,
+      "episodes": 1,
+      "season": "Winter 2023",
+      "characters": [
+        {
+          "name": "Yuji Itadori",
+          "role": "Main Character"
+        },
+        {
+          "name": "Satoru Gojo",
+          "role": "Main Character"
+        },
+        {
+          "name": "Nobara Kugisaki",
+          "role": "Main Character"
+        },
+        {
+          "name": "Megumi Fushiguro",
+          "role": "Main Character"
+        }
+      ]
+    },
+    {
+      "title": "One Piece: Wano Country Arc",
+      "rating": 8.5,
+      "viewers": 4200000,
+      "episodes": 100,
+      "season": "Ongoing",
+      "characters": [
+        {
+          "name": "Monkey D. Luffy",
+          "role": "Main Character"
+        },
+        {
+          "name": "Roronoa Zoro",
+          "role": "Main Character"
+        },
+        {
+          "name": "Nami",
+          "role": "Main Character"
+        },
+        {
+          "name": "Usopp",
+          "role": "Main Character"
+        }
+      ]
+    }
+  ]
